@@ -22,7 +22,7 @@ export const games = [
       title: "Sackboy",
       genre: ["Plataforma 3D", "Aventura"],
       maxPlayers: 4,
-      screenType: "Tela única dinâmica",
+      screenType: "Tela única compartilhada",
       platforms: ["PS4", "PS5", "PC"],
       subscriptions: ["PS Plus"],
     },
